@@ -106,4 +106,8 @@ let greetingList = greeting.split("x")
  { res.push( greeting[i] ) }
  if ( (greetingList.length >= 2))  print(greetingList)}
 
+ function aufgabe_13() {
+    
+ }
+
 
